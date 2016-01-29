@@ -1,0 +1,4 @@
+#define SETTINGS_SSID "xxx"
+#define SETTINGS_PASS "xxx"
+#define SETTINGS_THINGSPEAK_KEY "xxx"
+#define SETTINGS_THINGSPEAK_CHANNEL 1
